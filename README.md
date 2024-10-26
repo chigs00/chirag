@@ -9,6 +9,10 @@ Level Design & Tools: Custom Editors, Procedural Generation
 UI/UX: Animations, Effects, and Responsive Interfaces
 Version Control: Git/GitHub for Collaboration
 
+🌟 Projects:
+Cat Escape – A thrilling puzzle-adventure game where players guide a cat to freedom through tricky levels
+🔗 [https://chigs00.itch.io/cat-escape-3d]
+
 🚀 Let's Connect!
 Linkedin: [https://www.linkedin.com/in/chirag-makwana-a5413320a/]
 Email: [makwanachirag276@gmail.com]
