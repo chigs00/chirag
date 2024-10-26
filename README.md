@@ -10,4 +10,6 @@ UI/UX: Animations, Effects, and Responsive Interfaces
 Version Control: Git/GitHub for Collaboration
 
 🚀 Let's Connect!
-[![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chigs00)](https://github.com/chigs00/github-readme-stats)
+Linkedin: [https://www.linkedin.com/in/chirag-makwana-a5413320a/]
+Email: [makwanachirag276@gmail.com]
+
