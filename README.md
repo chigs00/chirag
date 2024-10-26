@@ -1,5 +1,6 @@
 👋 Hi, I'm Chirag!
 🎮 Unity Game Developer | 2 Years of Experience
+
 I specialize in creating engaging and polished games using Unity. Whether it's building smooth gameplay mechanics, designing creative levels, or adding finishing touches with UI and visual effects
 , I’m passionate about every step of the game development process.
 
